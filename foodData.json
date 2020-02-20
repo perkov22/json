@@ -1,0 +1,224 @@
+{
+    "foodMenu": [{
+            "id": 0,
+            "poster": "https://zerocod.com/vinarije/adzic/adzic_grasevina-1.png",
+            "price": 54.00,
+            "title": "Graševina",
+            "type": "adzic",
+            "weight": "Lagano vino svijetle žutozelenkaste boje, voćnih aroma te svježeg i dobro uravnoteženog, bogatog okusa. Nastaje prirodnom tj. spontanom fermentacijom u inox bačvama. Prirodni kvasci dodaju na osjećaju punoće i zaokruženosti."
+        },
+        {
+            "id": 1,
+            "poster": "https://zerocod.com/vinarije/adzic/adzic_pinotsivi-1.png",
+            "price": 65.00,
+            "title": "Pinot sivi",
+            "type": "adzic",
+            "weight": "Polusuho vino,slamnatožute boje. Svaka butelja oduševljava razvijenim i kompleksnim bouquetom.U okusu ovog Sivog Pinota dominiraju karamele."
+        },
+        {
+            "id": 2,
+            "poster": "https://zerocod.com/vinarije/adzic/adzic_pinotcrni-1.png",
+            "price": 100.00,
+            "title": "Pinot crni",
+            "type": "adzic",
+            "weight": "Vino je prekrasne tamnije rubinskocrvene boje. ADŽIĆ Pinot Crni arome je na šumsko voće, kupine i jagode, te je punog, zaobljenog okusa."
+        },
+        {
+            "id": 3,
+            "poster": "https://zerocod.com/vinarije/galic/galic_grasevina-1.png",
+            "price": 50.90,
+            "title": "Graševina",
+            "type": "galic",
+            "weight": "Posebno odnjegovano vino dobiveno od grožđa s naših najboljih položaja gdje je prinos 1-1,5 kg po trsu. Fermentacija se odvijala u kontroliranim uvjetima u bačvama od 225L i 500L izrađenih od francuskog i slavonskog hrasta, te slavonskog bagrema. Vino je odležavalo na finom talogu (sur lie) u bačvama 9 mjeseci."
+        },
+        {
+            "id": 4,
+            "poster": "https://zerocod.com/vinarije/galic/galic_gtocka_bijelo-1.png",
+            "price": 26.90,
+            "title": "G-Točka bijelo",
+            "type": "galic",
+            "weight": "Nježne arome zelenih jabuka isprepliću se s aromama vinogradarske breskve i kamilice. Zaokruženog i zavodljivog tijela s ugodnim i osvježavajućim kiselinama."
+        },
+        {
+            "id": 5,
+            "poster": "https://zerocod.com/vinarije/galic/galic_gtocka_crno-1.png",
+            "price": 36.90,
+            "title": "G-Točka crno ",
+            "type": "galic",
+            "weight": "Ovo vino duboke tamno crvene boje obilježava izražen i vrlo ugodan miris crnih ribizla i suhih šljiva iza kojeg slijede profi njene začinske arome crnog papra, cedrovine i muškatnog oraščića. Vino je odležavalo u “barrique” bačvama 24 mjeseca te ima veliki potencijal dozrijevanja i može se čuvati preko 15 godina"
+        },
+        {
+            "id": 6,
+            "poster": "https://zerocod.com/vinarije/galic/galic_chardonnay-1.png",
+            "price": 79.90,
+            "title": "Chardonnay",
+            "type": "galic",
+            "weight": "Diskretne voćne arome marelice i breskve poniru u kompleksnost izrazito bogatog mirisa kojeg tvore arome korice svježeg kruha, maslaca i lješnjaka, a sve je prožeto nježnim karakterom vanilije i karamele. Vino je fermentirano u bačvama od hrastova drva, macerirano 6-12 sati te je odležalo “sur lie” 7 mjeseci."
+        },
+        {
+            "id": 7,
+            "poster": "https://zerocod.com/vinarije/galic/galic_suvignon_blanc-1.png",
+            "price": 69.90,
+            "title": "Sauvignon Blanc",
+            "type": "galic",
+            "weight": "Intenzivne i pune voćne arome bazge, dinje i ogrozda isprepliću se s herbalnim aromama paprike, šparoge i limunske trave.15% vina macerirano je 6-12 h te je odležavalo u hrastovim bačvama od 500 L na fi nom talogu."
+        },
+        {
+            "id": 8,
+            "poster": "https://zerocod.com/vinarije/galic/galic_pinotcrni-1.png",
+            "price": 89.90,
+            "title": "Pinot crni",
+            "type": "galic",
+            "weight": "Ovo vino karakterizira lijepa, elegantna rubinasta nijansa tipična za crni pinot. Naglašeni i atraktivni buket trešanja i šumskih jagoda razvija se prema začinskim aromama muškatnog oraščića kao i elementima duhana i tamne čokolade. Svileni i baršunasti tanini isprepliću se ugodnim i blagim kiselinama, stvarajući senzacionalan osjećaj na nepcu."
+        },
+        {
+            "id": 9,
+            "poster": "https://zerocod.com/vinarije/galic/galic_rose-1.png",
+            "price": 59.90,
+            "title": "Rose 0.75",
+            "type": "galic",
+            "weight": "Odlikuje ga nježna i zavodljiva roza boja karakteristična za rosé vina.Miris prati tonove boje te odiše lijepom voćnošću u kojoj se isprepliću arome maline i jagode. Izvanredan mineralni karakter s hrskavim kiselinama čini ovo vino idealnim zimskim aperitivom i pravim ljetnim osvježenjem."
+        },
+        {
+            "id": 10,
+            "poster": "https://zerocod.com/vinarije/galic/galic_cabernetsuvignon-1.png",
+            "price": 89.90,
+            "title": "Cabernet Sauvignon",
+            "type": "galic",
+            "weight": "U Slavoniji cabernetsauvignon prilično dobro uspijeva. Jedna je od onih sorata koja će mnogima promijeniti mišljenje o Slavoniji kao regiji bijelih vina. Na prvi je gutljaj odmah jasno da ovaj cabernet može još dugo odležavati. Izražene su kiseline i bogat je taninima, premda oni nisu mladi ni opori. Zagasitih je voćnih aroma uz cijenjenu cabernetovsku svježinu koju nakon par gutljaja osjetite u ustima."
+        },
+        {
+            "id": 11,
+            "poster": "https://zerocod.com/vinarije/galic/galic_bijelo9-1.png",
+            "price": 83.90,
+            "title": "Bijelo 9",
+            "type": "galic",
+            "weight": "50% Graševina, 25% Chardonnay, 25% Sauvignon blanc. Fermentacija se odvijala u kontroliranim uvjetima u bačvama od 225L i 500L izrađenih od francuskog i slavonskog hrasta, te slavonskog bagrema. Vino je odležavalo na fi nom talogu (sur lie) u bačvama 9 mjeseci."
+        },
+        {
+            "id": 12,
+            "poster": "https://zerocod.com/vinarije/galic/galic_crno9-1.png",
+            "price": 109.00,
+            "title": "Crno 9",
+            "type": "galic",
+            "weight": "Ovo vino duboke tamno crvene boje obilježava izražen i vrlo ugodan miris crnih ribizla i suhih šljiva iza kojeg slijede profi njene začinske arome crnog papra, cedrovine i muškatnog oraščića. Okus je masivan i snažan, blago pikantan, ali istovremeno i iznimno slastan. Vino je odležavalo u “barrique” bačvama 24 mjeseca te ima veliki potencijal dozrijevanja i može se čuvati preko 15 g."
+        },
+        {
+            "id": 15,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_grasevina.png",
+            "price": 50.90,
+            "title": "Graševina",
+            "type": "krauthaker",
+            "weight": "U tipu svježeg vina, na nosu s dosta voćnosti i sa stanovitim cvjetnim notama, u ustima toplo, fi no zaobljeno, skladno, dobra tijela. Kristalno sjajeće lijepe slamnato-žute boje, s mirisom solidna intenziteta a koji upućuje na svježu jabuku, donekle i na vinogradsku breskvu, nudi i ponešto svijetlog poljskoga cvijeća. Okus je živ, s dobrom kiselosti, te, na kraju, s ugodnom blagom gorčinom, svojstvenom vinu od te sorte."
+        },
+        {
+            "id": 18,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_gra%C5%A1evinaMitrovac.png",
+            "price": 59.90,
+            "title": "Graševina Mitrovac",
+            "type": "krauthaker",
+            "weight": "Kristalno sjajeće lijepe slamnato-žute boje, s mirisom solidna intenziteta a koji upućuje na svježe jabuku, donekle i na vinogradarsku breskvu, nudi i ponešto svijetlog poljskoga cvijeća. Okus je živ, s dobrom kiselosti, te, na kraju, s ugodnom blagom gorčinom, svojstvenom vinu od te sorte."
+        },
+        {
+            "id": 21,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_pinotsivi.png",
+            "price": 53.90,
+            "title": "Pinot sivi",
+            "type": "krauthaker",
+            "weight": "Živo, toplo, dotjerano, skladno, s dobro iskazanima voćnosti i svježinom, bez začinskih utjecaja drva. Svjetlije slamnatožute boje, kristalne bistroće, miris upućuje na zrelo domaće bijelo i zeleno voće, npr. jabuku, krušku, breskvu, ali i na južno voće – otkrivaju se i trag kivija, nijansa korice limuna, potom i sijeno. U ustima je slankasto, primjerena kiselost u skladnoj je međuakciji s blagom slasti."
+        },
+        {
+            "id": 22,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_chardonnay-1.png",
+            "price": 73.90,
+            "title": "Chardonnay",
+            "type": "krauthaker",
+            "weight": "Kompleksno, s puno je svježine i voćnih aroma. Dozrijevalo je dobrim dijelom u drvu – upravo radi postizanja veće kompleksnosti rabljen je barrique, a dijelom – upravo radi očuvanja svježine i voćnosti, u posudama od inoksa. Svjetlije je žive slamnato-žute boje s nježnom zelenkastom nijansom, relativno diskretno na nosu, bouquet upućuje na bijelo domaće koštićavo voće i trag citrusa u međuigri s nitima vanilije i korice limuna, na dodir drva i dima."
+        },
+        {
+            "id": 23,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_suvignonvidim-1.png",
+            "price": 55.90,
+            "title": "Sauvignon Vidim",
+            "type": "krauthaker",
+            "weight": "Lijepe je živahne i pune slamnato-žute boje s blagom zelenkastom nijansom, na unutarnjoj stijenki čaše pokazuje sporo cijedeće suze. Mirisom je diskretan ali prepoznatljiv, otvara se blagom notom dima, potom se ćuti ponešto drva, kasnije se u tragu javljaju (bijelo) voće i cvijetne note, mirodije. U ustima vrlo živo, s dobrom kiselosti, ugodno gorkasto, blago pikantno, zaobljeno, toplo, čvrsta tijela, traje."
+        },
+        {
+            "id": 26,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_suvignon-1.png",
+            "price": 51.90,
+            "title": "Sauvignon",
+            "type": "krauthaker",
+            "weight": "Lijepe je živahne i pune slamnato-žute boje s blagom zelenkastom nijansom, na unutarnjoj stjenki čaše pokazuje sporo cijedeće suze. Mirisom je diskretan ali prepoznatljiv, otvara se blagom notom dima, potom se ćuti ponešto drva, kasnije se u tragu javljaju (bijelo) voće i cvjetne note, mirodije. U ustima vrlo živo, s dobrom kiselosti, ugodno gorkasto, blago pikantno, zaobljeno, toplo, čvrsta tijela, traje."
+        },
+        {
+            "id": 27,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_syrah-1.png",
+            "price": 67.90,
+            "title": "Syrah",
+            "type": "krauthaker",
+            "weight": "Specifi čnosti ovog proizvoda su rubinski crvena živa boja, te intenzivna aroma crnog bobičastog voća (višnja, trešnja, kupina,…). U okusu je vino puno, izuzetno svježe i pitko. Vino je bogato ekstraktom, taninom i sposobno za dugogodišnju pohranu."
+        },
+        {
+            "id": 28,
+            "poster": "https://zerocod.com/vinarije/krauthaker/krauthaker_rosecuvee-1.png",
+            "price": 46.90,
+            "title": "Rose Cuvee",
+            "type": "krauthaker",
+            "weight": "Bistre,svijetle ružičaste boje, kao što i priliči jednom roseu. Cuveevinarije Krauthaker daje arome crnog bobičastog i jagodičastog voća.U okusu dominira voćnost i blaga naznaka herbalnog. Osvježavajuće i pitko vino."
+        },
+        {
+            "id": 29,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_suvignonblanc_saltwater-1.png",
+            "price": 45.00,
+            "title": "Sauvignon Blanc Saltwater",
+            "type": "iuris",
+            "weight": "Primarne arome kombiniraju vrlo intenzivne mirise cvijeta bazge s herbalnim tonovima pokošene trave i mineralnost, aromatski vrlo intenzivno, herbalno-cvjetnog karaktera. Suho, svježe, laganog tijela, naglašenog intenziteta i koncentracije cvjetno-herbalnih aroma, izbalansirano osvježavajućim živahnim kiselinama te kraćeg završetka."
+        },
+        {
+            "id": 30,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_cabernetsuvignon_saltwater-1.png",
+            "price": 49.00,
+            "title": "Cabarnet Sauvignon Saltwater",
+            "type": "iuris",
+            "weight": "Intenzivne granatne rubinsko-crvene boje, kristalne čistoće i bistrine, srednje višeg viskoziteta.Vrlo ekspresivne, intenzivne, primarne arome kapsikuma i crvenog ribiza uz cvijet bazge nakon kojeg po otvaranju dominiraju zrela višnja maraska, kupine, zrele trešnje. Visok intenzitet i koncentracija okusa uz balans živih kiselina, blage oštrine, no glatke, zaobljene teksture, suho, punog tijela, skladno te dugotrajnog retrookusa."
+        },
+        {
+            "id": 31,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_pinotgrigio-1.png",
+            "price": 45.00,
+            "title": "Pinot Grigio",
+            "type": "iuris",
+            "weight": "Blijeda slamnato-žuta boja sa svijetlim bakrenim nijansama. Osjetite mineralne note zajedno s voćem kao što su jabuke, kruške i breskve. Dobra alkoholna jakost, slankast i bogat okus."
+        },
+        {
+            "id": 32,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_tempera_premiumcuvee-1.png",
+            "price": 60.00,
+            "title": "Tempera Premium Cuvee",
+            "type": "iuris",
+            "weight": "Vino je kupaža četiriju sorti: cabernetsauvignona, merlota, vranca i plavca malog koje su brane u optimalnim uvjetima. Sjajne, tamnocrvene boje.Na nosu arome zrelog, crvenog voća.Bogat, harmoničan okus uz izraženu svježinu i meke tanine."
+        },
+        {
+            "id": 33,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_merlot-1.png",
+            "price": 45.00,
+            "title": "Merlot",
+            "type": "iuris",
+            "weight": "Intenzivne ciglasto-crvene prema rubinsko-crvenoj uz kristalnu bistrinu i čistoću. Kroz primarne arome dominira zrelo crveno voće u smjeru crvenih šljiva, crvenog ribiza i kapsikuma, tercijarne arome: začinsko bilje, slatki korijen uz delikatnu aromu cvijeta ljubice."
+        },
+        {
+            "id": 34,
+            "poster": "https://zerocod.com/vinarije/iuris/iuris_cabernetsuvignon-1.png",
+            "price": 45.00,
+            "title": "Cabarnet Sauvignon",
+            "type": "iuris",
+            "weight": "Primarne arome kupina i crnih trešanja uz nijanse eukaliptusa i kapsikuma, po otvaranju zrelo crno bobičasto voće, zemljani i animalni tonovi. Srednji intenzitet i koncentracija okusa, suho, srednje punog tijela, elegantno, zrelo i sočno, glatke teksture zbog mekih zaobljenih prezrelih tanina, harmoniziranih svježinom kiselina te dugotrajnog retrookusa."
+        }
+
+
+
+
+
+    ]
+}
